@@ -1,4 +1,4 @@
-# Project Title
+# Notes App
 
 A simple Notes Management Web Application built using Node.js, Express, and EJS. This project allows users to create, view, edit, and manage notes stored as files.
 
